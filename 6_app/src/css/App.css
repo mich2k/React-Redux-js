@@ -1,0 +1,14 @@
+.App {
+  background-color: rgb(219, 219, 219);
+}
+.App-header{
+  min-height: 10vmin;
+}
+
+.App-body {
+  min-height: 90vmin;
+}
+
+
+.App-footer {
+}

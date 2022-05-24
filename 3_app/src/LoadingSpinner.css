@@ -1,0 +1,15 @@
+body{
+    background-color: darkgray;
+}
+
+.loading-spinner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.spinner-icon{
+    position: relative;
+    left: 35%;
+}
